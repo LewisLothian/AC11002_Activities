@@ -1,1 +1,3 @@
 # AC11002_Unit_01
+
+Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth.[22][23] It only has one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive.[24][25][26] Saturn is named after the Roman god of wealth and agriculture. Its astronomical symbol (♄) has been traced back to the Greek Oxyrhynchus Papyri, where it can be seen to be a Greek kappa with a tail and cross-bar, as an abbreviation for Κρονος (Cronos), the Greek name for the planet.[27] The Romans named the seventh day of the week Saturday, Sāturni diēs ("Saturn's Day") for the planet Saturn.
