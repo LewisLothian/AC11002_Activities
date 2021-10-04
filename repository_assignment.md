@@ -14,4 +14,5 @@
 4. Contributors
     * while looking through the contributors tab it becomes apparent that the people working on this project are always working on this. This is made obvious by the large number of contributions recently made by everyone.
 
-5. 
+5. Commits
+    * looking into the commits tab it becomes apparent that this project has had frequent work carried out on it as the graphical representation of commits on to the project shows a steady flow of work being carried out
