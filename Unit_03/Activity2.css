@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=ZCOOL+KuaiLe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+
+html{
+  background-color: #6F4C5B;
+}
+
+.Menu{
+  width: 60%;
+  padding: 30px;
+  margin-top: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #F5E8C7;
+  border-color: #9E7777;
+  border-style: solid;
+  border-width: medium;
+  text-align: center;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222;
+}
+
+nav ul li{
+  float: left;
+}
+
+nav ul li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover{
+  background-color: #111;
+}
+
+header{
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+  border-bottom-color: #6F4C5B;
+}
+
+h1,h2,h3{
+  font-family: ZCOOL KuaiLe;
+}
+
+h1{
+  font-size: 50px;
+  font-weight:4000;
+}
+
+h2{
+  font-size: 40px;
+}
+
+h3{
+  font-size: 25px;
+}
+
+p{
+  font-family: 'Inter', sans-serif;
+}
+
+.current{
+  background-color: #333
+}
+
+
+.Snacks,.Burger,.Dishes{
+  background-color: #DEBA9D;
+  padding: 20px;
+  margin: 30px;
+}
+
+.Dish{
+  font-weight:400;
+  font-size: 20px;
+}
+
+.Price{
+  font-weight: bold;
+}
