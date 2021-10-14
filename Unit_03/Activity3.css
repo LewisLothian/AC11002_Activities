@@ -1,0 +1,69 @@
+html{
+  width: 60%;
+}
+
+img{
+  width: 100px;
+  height: 55px;
+  float: left;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222;
+}
+
+nav ul li{
+  float: left;
+}
+
+nav ul li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover{
+  background-color: #111;
+}
+
+#Main{
+  background-color: #eeeeee;
+  width: 70%;
+  display: inline;
+  float: left;
+  height: 400px;
+}
+
+#Side{
+  background-color: lightgrey;
+  float: right;
+  width: 30%;
+  height: 400px;
+}
+
+.FooterText{
+  padding-left: 5px
+}
+
+#Footer1{
+  width: 33%;
+  background-color: grey;
+  float: left;
+}
+
+#Footer2{
+  width: 34%;
+  background-color: lightgrey;
+  float: left;
+}
+
+#Footer3{
+  width: 33%;
+  background-color: darkgrey;
+  float: right;
+}
